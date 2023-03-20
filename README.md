@@ -1,6 +1,7 @@
 # Transfer-Learning-for-Text-Data-Analysis
 
-This repository belongs to a Bachelor thesis on a topic of Transfer Learning for Text Data Analysis from Vysoká škola báňská - Technická univerzita Ostrava
+This repository belongs to a Bachelor thesis on a topic of Transfer Learning for Text Data Analysis from Vysoká škola báňská - Technická univerzita Ostrava <br> 
+https://dspace.vsb.cz/handle/10084/147359
 
 ## Abstract
 
