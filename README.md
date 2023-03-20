@@ -24,14 +24,24 @@ The thesis as itself is a summary of the different machine learning technique an
 
 The used techniques are: 
 1. Support Vector Machine - Simpler ML model for benchmarking against the deep learnign models
-2. Reccurent neural networks (Own architecture)
-3. Reccurent neural networks (Using pretrained FastText embeddings)
+2. Recurrent neural networks (Own architecture)
+3. Recurrent neural networks (Using pretrained FastText embeddings)
 4. Transformers -  BERT, camemBERT, distilBERT, roBERTa, small-e-czech, XLM-roBERTa
 
 Used framworks:
 1. Scikit-learn - Support Vector Machine
-2. Tensorflow, Keras - Reccurent neural networks
+2. Tensorflow, Keras - Recurrent neural networks
 3. PyTorch - Only for Transformers
+
+Directory: <br>
+folder CSFD: <br>
+- Jupyter notebook BERT_CSFD.ipynb containing all the experiments for the method using Transformers
+- Jupyter notebook FastText_CSFD.ipynb containing all the experiments for the method using RNNs with FastText embeddings
+- Jupyter notebook RNN_CSFD.ipynb containing all the experiments for the method using my own RNN architecture
+- Jupyter notebook SVM_CSFD.ipynb containing all the experiments for the method using SVMs
+- Jupyter notebook CSFD_Dataset.ipynb containing all the preprocessing steps and the description of the data
+
+All directories for all datasets looks the same
 
 
 ## Results
