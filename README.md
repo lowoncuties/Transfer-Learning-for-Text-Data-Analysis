@@ -24,7 +24,7 @@ The thesis as itself is a summary of the different machine learning technique an
 4. CSFD (Similar to IMDB but Czech) <br>
 
 The used techniques are: 
-1. Support Vector Machine - Simpler ML model for benchmarking against the deep learnign models
+1. Support Vector Machine - Simpler ML model for benchmarking against the deep learning models
 2. Recurrent neural networks (Own architecture)
 3. Recurrent neural networks (Using pretrained FastText embeddings)
 4. Transformers -  BERT, camemBERT, distilBERT, roBERTa, small-e-czech, XLM-roBERTa
